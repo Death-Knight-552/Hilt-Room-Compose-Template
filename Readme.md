@@ -44,7 +44,7 @@ I am planning to add a simple room database with the data class, dao, repository
 
 Feel free to contribute to this starter project by opening issues or creating pull requests. Your feedback and contributions are highly appreciated.
 
-If you encounter any issues or have questions, please don't hesitate to open a new issue on the [GitHub repository](https://github.com/Death-Knight-552/StarterProject).
+If you encounter any issues or have questions, please don't hesitate to open a new issue on the [GitHub repository](https://github.com/Death-Knight-552/Hilt-Room-Compose-Template).
 
 Happy coding! 🚀
 
